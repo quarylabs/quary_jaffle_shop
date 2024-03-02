@@ -1,3 +1,10 @@
+sources:
+- name: raw_customers
+  path: "'data/customers.csv'"
+- name: raw_orders
+  path: "'data/orders.csv'"
+- name: raw_payments
+  path: "'data/payments.csv'"
 models:
 - name: stg_customers
   columns:
