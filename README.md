@@ -1,6 +1,6 @@
 ## Example Quary project w/ DuckDB: `jaffle_shop`
 
-`jaffle_shop` is a fictional ecommerce store. This Quary project transforms raw data from DuckDB into a customers and orders model ready for analytics.
+`jaffle_shop` is a fictional e-commerce store. This Quary project transforms the raw .csv data files into a customers and orders model ready for analytics in DuckDB.
 
 ![template_duck_db](https://github.com/quarylabs/quary_jaffle_shop/assets/132601011/369d6f9f-2be3-4fdd-bcb6-58f9691a3009)
 
